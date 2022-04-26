@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshada</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54838505/165299754-38e8dc80-5b3a-4817-8ab9-e98967981c29.png">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/datascientistinsights.com/wp-content/uploads/2019/01/img_0119.gif?fit=500%2C350&ssl=1">
 
 
 - 🔭 I’m currently working on **Deep Learning, Data Visualization and Machine Learning**
