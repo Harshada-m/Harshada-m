@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshadam24.hm@gmail.com**
 
-- ⚡ Fun fact **I am writer too !!**
+- ⚡ Fun fact **I am a writer too !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
