@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/datascientistinsights.com/wp-content/uploads/2019/01/img_0119.gif?fit=500%2C350&ssl=1">
 
+![](https://komarev.com/ghpvc/?username=Harshada-m&style=flat-square)
+
 
 - 🔭 I’m currently working on **Deep Learning, Data Visualization and Machine Learning**
  
