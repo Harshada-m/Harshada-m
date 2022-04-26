@@ -5,11 +5,9 @@
 <h1 align="center">Hi 👋, I'm Harshada</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Deep Learning,Data Visualization and Machine Learning**
-
-- 👯 I’m looking to collaborate on **Data Science Projects Open Source Projects**
-
-- 🤝 I’m looking for help with **Data Science**
+- 🔭 I’m currently working on **Deep Learning, Data Visualization and Machine Learning**
+ 
+- 👯 I’m looking to collaborate on **Data Science Open Source Projects**
 
 - 💬 Ask me about **NLP, OpenCV, Machine Learning, Azure**
 
