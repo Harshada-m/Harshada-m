@@ -1,4 +1,3 @@
-### Hi there 👋
 [![MasterHead](https://github.com/Harshada-m/Harshada-m/blob/main/images/data.jpg)](https://harshada-m.io)
 <h1 align="center">Hi 👋, I'm Harshada</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
