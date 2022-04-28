@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Harshada-m&style=flat-square)
 
 
-- 🔭 I’m currently working on **Deep Learning, Data Visualization and Machine Learning**
+- 🔭 I’m currently working on **Deep Learning(NLP and OpenCV), Data Visualization and Machine Learning**
  
 - 👯 I’m looking to collaborate on **Data Science Open Source Projects**
 
