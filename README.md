@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Harshada-m/Harshada-m/blob/main/images/data.jpg)](https://harshada-m.io)
 <h1 align="center">Hi 👋, I'm Harshada</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/datascientistinsights.com/wp-content/uploads/2019/01/img_0119.gif?fit=500%2C350&ssl=1">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Harshada-m/Harshada-m/main/images/GIF.webp">
 
 ![](https://komarev.com/ghpvc/?username=Harshada-m&style=flat-square)
 
